@@ -8,6 +8,18 @@
 var waitingArray = [
 	// objects representing customers on the waiting list go here
 	// you may want to start with some hard-coded for testing
+	{
+		customerName: "Max",
+		customerEmail: "max@example.com",
+		customerID: "butterypanda",
+		phoneNumber: "999-999-9999"
+	},
+	{
+		customerName: "Tom",
+		customerEmail: "tom@example.com",
+		customerID: "tchup",
+		phoneNumber: "222-222-2222"
+	}
 ];
 
 

@@ -8,6 +8,18 @@
 var tableArray = [
 	// objects representing customers with reservations go here
 	// you may want to start with some hard-coded for testing
+	{
+		customerName: "Ahmed",
+		customerEmail: "ahmed@example.com",
+		customerID: "afhaque89",
+		phoneNumber: "000-000-0000"
+	},
+	{
+		customerName: "Melissa",
+		customerEmail: "melissa@example.com",
+		customerID: "melm17",
+		phoneNumber: "555-555-5555"
+	}
 ];
 
 // Note how we export the array. This makes it accessible to other files using require.
